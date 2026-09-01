@@ -11,3 +11,4 @@ vless://6ec700c6-c0b6-8af5-fd4c-60a500000009@104.17.148.22:80?sni=ez-f22f34.lesa
 vless://6ec700c6-c0b6-8af5-fd4c-60a50000000a@104.21.10.136:80?sni=ez-f22f34.lesav11531.workers.dev&security=none&path=%2Fsync&fp=safari&encryption=none&host=ez-f22f34.lesav11531.workers.dev&type=ws#%F0%9F%87%A6%F0%9F%87%AA
 vless://6ec700c6-c0b6-8af5-fd4c-60a50000000b@172.67.131.125:80?sni=ez-f22f34.lesav11531.workers.dev&security=none&path=%2Fsync&fp=safari&encryption=none&host=ez-f22f34.lesav11531.workers.dev&type=ws#%F0%9F%87%A6%F0%9F%87%AAt
 vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@ww10.levikogjgfdd.ir:55861?sid=7551ed1b&sni=www.intel.com&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&security=reality&headerType=none&encryption=none&type=tcp&flow=xtls-rprx-vision&host=Telegram-Leviko_v2ray#Hi%F0%9F%95%8A%EF%B8%8F
+https://t.me/Freeland8/21729

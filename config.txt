@@ -1,1 +1,12 @@
-https://ez-f22f34.lesav11531.workers.dev/sync?sub=Alisan&flag=raw
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000000@172.64.155.209:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000001@104.18.32.47:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000002@104.18.13.149:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000003@104.18.12.149:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000004@104.18.29.234:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000005@104.18.28.234:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000006@104.19.230.21:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000007@104.19.229.21:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000008@104.17.147.22:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a500000009@104.17.148.22:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a50000000a@104.21.10.136:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
+vless://6ec700c6-c0b6-8af5-fd4c-60a50000000b@172.67.131.125:80?type=ws&sni=ez-f22f34.lesav11531.workers.dev&encryption=none&fp=safari&security=none&host=ez-f22f34.lesav11531.workers.dev&path=%2Fsync#%F0%9F%87%A6%F0%9F%87%AA
